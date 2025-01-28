@@ -38,4 +38,9 @@ Candidate Search is a simple and efficient tool for browsing and saving potentia
   Run: npm run dev
 
   
-  ## Contac
+  ## Contact 
+
+  Email: jessicaherborn@gmail.com
+  GitHub: https://github.com/JCollver23
+  
+  
