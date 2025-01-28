@@ -1,0 +1,32 @@
+
+.nav_container {
+    display: flex;
+    justify-content: space-between; /* This aligns the logo to the left and nav to the right */
+    align-items: center;            /* Vertically centers the items */
+    padding: 10px 20px;       
+    background-color: rgb(53, 53, 53);
+    box-shadow: 0 2px 4px 0 rgba(163, 153, 153, 0.1);
+    z-index: 1000;
+  }
+  
+  
+  nav ul {
+    list-style-type: none; /* Removes default list styling */
+    margin: 0;
+    padding: 0;
+    display: flex;         /* Align items horizontally */
+  }
+  
+  nav ul li {
+    margin-left: 20px;     /* Space between each nav item */
+  }
+  
+  .nav_link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);          /* Adjust text color */
+    font-size: 1rem;       /* Adjust font size of nav items */
+  }
+  
+  .nav_link:hover {
+    text-decoration: underline; /* Optional: Add hover effect for the links */
+  }
