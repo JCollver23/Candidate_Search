@@ -5,8 +5,6 @@
   
   ## Description
  
-Sure! Here's a short description for your candidate search website:
-
 Candidate Search is a simple and efficient tool for browsing and saving potential candidates. Easily explore profiles, review key details, and save the candidates that match your needs. Ideal for hiring managers and recruiters looking for a seamless way to find top talent.
   
   ## Table of Contents
